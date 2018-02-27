@@ -1,0 +1,3 @@
+include ':app'
+include ':library:gravitysnaphelper'
+include ':library:slideuphelper'

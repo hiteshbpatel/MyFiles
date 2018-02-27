@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_games"
+            android:icon="@drawable/ic_games_black_24dp"
+            android:title="Games" />
+        <item
+            android:id="@+id/nav_movies"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Movies" />
+        <item
+            android:id="@+id/nav_music"
+            android:icon="@drawable/ic_queue_music_black_24dp"
+            android:title="Music" />
+    </group>
+
+    <item android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/nav_books"
+                android:icon="@drawable/ic_library_books_black_24dp"
+                android:title="Books" />
+            <item
+                android:id="@+id/nav_newsstand"
+                android:icon="@drawable/ic_sms_black_24dp"
+                android:title="Newsstand" />
+        </menu>
+    </item>
+
+</menu>

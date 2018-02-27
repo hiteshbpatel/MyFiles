@@ -1,0 +1,78 @@
+{
+  "details": [
+    {
+      "id": "1087",
+      "gameName": "Farm Ville2",
+      "companyName": "Reliance Jio",
+      "image_name" :"banner_2"
+    },
+    {
+      "id": "1088",
+      "gameName": "Let's Farm",
+      "companyName": "Reliance Jio",
+      "gender": "male",
+      "image_name" :"banner_1"
+    },
+    {
+      "id": "1089",
+      "gameName": "Hay Day",
+      "companyName": "Reliance Jio",
+      "image_name" :"banner_3"
+    },
+    {
+      "id": "1090",
+      "gameName": "Farm Ville2",
+      "companyName": "Reliance Jio",
+      "image_name" :"banner_2"
+    },
+    {
+      "id": "1091",
+      "gameName": "Let's Farm",
+      "companyName": "Reliance Jio",
+      "gender": "male",
+      "image_name" :"banner_1"
+    },
+    {
+      "id": "1092",
+      "gameName": "Hay Day",
+      "companyName": "Reliance Jio",
+      "image_name" :"banner_3"
+    },
+    {
+      "id": "1093",
+      "gameName": "Farm Ville2",
+      "companyName": "Reliance Jio",
+      "image_name" :"banner_2"
+    },
+    {
+      "id": "1094",
+      "gameName": "Let's Farm",
+      "companyName": "Reliance Jio",
+      "image_name" :"banner_1"
+    },
+    {
+      "id": "1095",
+      "gameName": "Hay Day",
+      "companyName": "Reliance Jio",
+      "image_name" :"banner_3"
+    },
+    {
+      "id": "1096",
+      "gameName": "Farm Ville2",
+      "companyName": "Reliance Jio",
+      "image_name" :"banner_2"
+    },
+    {
+      "id": "1097",
+      "gameName": "Let's Farm",
+      "companyName": "Reliance Jio",
+      "image_name" :"banner_1"
+    },
+    {
+      "id": "1098",
+      "gameName": "Hay Day",
+      "companyName": "Reliance Jio",
+      "image_name" :"banner_3"
+    }
+  ]
+}

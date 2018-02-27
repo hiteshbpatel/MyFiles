@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jio Games</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="first_para">Join Millions of players worldwide as you build your village, raise a clan, and compete in epic Clan Wars.!</string>
+
+    <string name="second_para">Mustachioed Barbariens, fire wielding wizards, and other unique tropps are waiting for you.</string>
+
+</resources>
